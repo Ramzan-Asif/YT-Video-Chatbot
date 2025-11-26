@@ -1,0 +1,24 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Embeddings (new package)
+langchain-huggingface
+
+# Environment Variable Management
+python-dotenv
+
+# YouTube transcript and video fetching
+youtube-transcript-api
+pytube
+
+# Sentence Transformers (used internally by Hugging Face embeddings)
+sentence-transformers
+
+# Vector store
+faiss-cpu
